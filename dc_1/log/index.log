@@ -1,0 +1,80 @@
+2019-04-19 15:11:21,209 - WARNING - /usr/local/lib/python3.6/dist-packages/celery/fixups/django.py:265: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+2019-04-19 15:11:21,210 - WARNING - celery@duxin-Aspire-4560 ready.
+2019-04-19 15:11:23,682 - INFO - beat: Starting...
+2019-04-19 15:11:23,683 - INFO - Writing entries (0)...
+2019-04-19 15:11:29,137 - INFO - Writing entries (0)...
+2019-04-19 15:12:19,104 - INFO - DatabaseScheduler: Schedule changed.
+2019-04-19 15:12:19,105 - INFO - Writing entries (0)...
+2019-04-19 15:13:19,111 - INFO - Scheduler: Sending due task add_1 (index.tasks.add)
+2019-04-19 15:13:19,131 - WARNING - 1 + 2 = 3
+2019-04-19 15:13:48,182 - WARNING - Not Found: /favicon.ico
+2019-04-19 15:14:19,114 - INFO - Scheduler: Sending due task add_1 (index.tasks.add)
+2019-04-19 15:14:19,121 - WARNING - 1 + 2 = 3
+2019-04-19 15:14:34,109 - INFO - Writing entries (1)...
+2019-04-19 15:14:35,781 - INFO - Writing entries (0)...
+2019-04-19 15:14:35,782 - INFO - Writing entries (0)...
+2019-04-19 15:14:35,783 - INFO - Writing entries (0)...
+2019-04-19 15:14:35,783 - INFO - Writing entries (0)...
+2019-04-19 15:14:51,248 - WARNING - /usr/local/lib/python3.6/dist-packages/celery/fixups/django.py:265: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+2019-04-19 15:14:51,249 - WARNING - celery@duxin-Aspire-4560 ready.
+2019-04-19 15:16:57,026 - WARNING - /usr/local/lib/python3.6/dist-packages/celery/fixups/django.py:265: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+2019-04-19 15:16:57,027 - WARNING - celery@duxin-Aspire-4560 ready.
+2019-04-19 15:17:57,862 - INFO - beat: Starting...
+2019-04-19 15:17:57,862 - INFO - Writing entries (0)...
+2019-04-19 15:17:58,323 - INFO - Scheduler: Sending due task add_1 (index.tasks.add)
+2019-04-19 15:17:58,336 - INFO - Writing entries (1)...
+2019-04-19 15:17:58,342 - WARNING - 1 + 2 = 3
+2019-04-19 15:18:58,326 - INFO - Scheduler: Sending due task add_1 (index.tasks.add)
+2019-04-19 15:18:58,335 - WARNING - 1 + 2 = 3
+2019-04-19 15:19:58,329 - INFO - Scheduler: Sending due task add_1 (index.tasks.add)
+2019-04-19 15:19:58,336 - WARNING - 1 + 2 = 3
+2019-04-19 15:20:58,331 - INFO - Scheduler: Sending due task add_1 (index.tasks.add)
+2019-04-19 15:20:58,337 - WARNING - 1 + 2 = 3
+2019-04-19 15:21:03,329 - INFO - Writing entries (1)...
+2019-04-19 15:21:58,333 - INFO - Scheduler: Sending due task add_1 (index.tasks.add)
+2019-04-19 15:21:58,342 - WARNING - 1 + 2 = 3
+2019-04-19 15:22:58,335 - INFO - Scheduler: Sending due task add_1 (index.tasks.add)
+2019-04-19 15:22:58,342 - WARNING - 1 + 2 = 3
+2019-04-19 15:23:58,337 - INFO - Scheduler: Sending due task add_1 (index.tasks.add)
+2019-04-19 15:23:58,347 - WARNING - 1 + 2 = 3
+2019-04-19 15:24:08,336 - INFO - Writing entries (1)...
+2019-04-19 15:24:58,339 - INFO - Scheduler: Sending due task add_1 (index.tasks.add)
+2019-04-19 15:24:58,346 - WARNING - 1 + 2 = 3
+2019-04-19 15:25:58,341 - INFO - Scheduler: Sending due task add_1 (index.tasks.add)
+2019-04-19 15:25:58,349 - WARNING - 1 + 2 = 3
+2019-04-19 15:26:58,344 - INFO - Scheduler: Sending due task add_1 (index.tasks.add)
+2019-04-19 15:26:58,351 - WARNING - 1 + 2 = 3
+2019-04-19 15:27:13,338 - INFO - Writing entries (1)...
+2019-04-19 15:27:58,346 - INFO - Scheduler: Sending due task add_1 (index.tasks.add)
+2019-04-19 15:27:58,353 - WARNING - 1 + 2 = 3
+2019-04-19 15:28:58,348 - INFO - Scheduler: Sending due task add_1 (index.tasks.add)
+2019-04-19 15:28:58,354 - WARNING - 1 + 2 = 3
+2019-04-19 15:29:58,349 - INFO - Scheduler: Sending due task add_1 (index.tasks.add)
+2019-04-19 15:29:58,356 - WARNING - 1 + 2 = 3
+2019-04-19 15:30:18,340 - INFO - Writing entries (1)...
+2019-04-19 15:30:58,351 - INFO - Scheduler: Sending due task add_1 (index.tasks.add)
+2019-04-19 15:30:58,358 - WARNING - 1 + 2 = 3
+2019-04-19 15:31:58,353 - INFO - Scheduler: Sending due task add_1 (index.tasks.add)
+2019-04-19 15:31:58,362 - WARNING - 1 + 2 = 3
+2019-04-19 15:32:58,355 - INFO - Scheduler: Sending due task add_1 (index.tasks.add)
+2019-04-19 15:32:58,362 - WARNING - 1 + 2 = 3
+2019-04-19 15:33:23,337 - INFO - Writing entries (1)...
+2019-04-19 15:33:58,357 - INFO - Scheduler: Sending due task add_1 (index.tasks.add)
+2019-04-19 15:33:58,364 - WARNING - 1 + 2 = 3
+2019-04-19 15:34:58,362 - INFO - Scheduler: Sending due task add_1 (index.tasks.add)
+2019-04-19 15:34:58,369 - WARNING - 1 + 2 = 3
+2019-04-19 15:35:58,364 - INFO - Scheduler: Sending due task add_1 (index.tasks.add)
+2019-04-19 15:35:58,371 - WARNING - 1 + 2 = 3
+2019-04-19 15:36:28,345 - INFO - Writing entries (1)...
+2019-04-19 15:36:58,365 - INFO - Scheduler: Sending due task add_1 (index.tasks.add)
+2019-04-19 15:36:58,372 - WARNING - 1 + 2 = 3
+2019-04-19 15:37:58,367 - INFO - Scheduler: Sending due task add_1 (index.tasks.add)
+2019-04-19 15:37:58,375 - WARNING - 1 + 2 = 3
+2019-04-19 15:38:58,370 - INFO - Scheduler: Sending due task add_1 (index.tasks.add)
+2019-04-19 15:38:58,377 - WARNING - 1 + 2 = 3
+2019-04-19 15:39:33,353 - INFO - Writing entries (1)...
+2019-04-19 15:39:58,371 - INFO - Scheduler: Sending due task add_1 (index.tasks.add)
+2019-04-19 15:39:58,379 - WARNING - 1 + 2 = 3
